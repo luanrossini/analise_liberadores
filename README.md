@@ -61,18 +61,20 @@ Os times brasileiros e argentinos têm historicamente dominado a Copa Libertador
 Novamente é evidenciado a tradição dos times argentinos e brasileiros na competição, fatores que influenciam essa supremacia foram mostrados já acima.
 
 ### 5 - Quais os times que mais somaram pontos nessas últimas edições de Libertadores?
-Time          Pontuação
-Boca Juniors      270
-River Plate       268
-Palmeiras         256
-Nacional          234
-Grêmio            224
-Atlético Mineiro  222
-Flamengo          218
-Cerro Porteño     214
-Libertad          196
-Olimpia           192
-Emelec            90
+Time          Pontuação</br>
+
+Boca Juniors      270 </br>
+River Plate       268</br>
+Palmeiras         256</br>
+Nacional          234</br>
+Grêmio            224</br>
+Atlético Mineiro  222</br>
+Flamengo          218</br>
+Cerro Porteño     214</br>
+Libertad          196</br>
+Olimpia           192</br>
+Emelec            90</br>
+
 #### Análise:
 Quando se fala em Copa Libertadores da América não há como não se lembrar do Boca e do River. Os dados mostram o quanto esses dois clubes argentinos são tão tradicionais e tão temidos pelos seus adversários continentais e muito isso se explica por:
 
@@ -84,18 +86,19 @@ Quando se fala em Copa Libertadores da América não há como não se lembrar do
 
 ### 6 - Quais os países que mais pontuaram nessas últimas edições de Libertadores?
 
-         Time  Pontuação
-0      Brasil       2122
-1   Argentina       1848
-2    Paraguai        742
-3    Colômbia        666
-4       Chile        580
-5     Uruguai        546
-6     Bolívia        534
-7     Equador        526
-8        Peru        466
-9   Venezuela        440
-10     México        288
+Time  Pontuação</br>
+
+Brasil       2122</br>
+Argentina    1848</br>
+Paraguai     742</br>
+Colômbia     666</br>
+Chile        580</br>
+Uruguai      546</br>
+Bolívia      534</br>
+Equador      526</br>
+Peru         466</br>
+Venezuela    440</br>
+México       288</br>
 
 #### Análise:
 É importante pontuar para essa análise que os times mexicanos não são mais convidados à participar da Libertadores desde 2016, o que justifica a posição do país no quadro acima.
